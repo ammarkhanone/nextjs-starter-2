@@ -1,0 +1,13 @@
+{
+  "name": "nextjs-starter-2",
+  "version": "1.0.0",
+  "description": "create the hello world app for vercel",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "latest"
+  }
+}
